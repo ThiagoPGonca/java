@@ -1,3 +1,4 @@
+// This code informs in hours, minutes and seconds the remaining time until the day ends. 
 import java.lang.Math;
 import java.util.Scanner;
 public class qhoras {
