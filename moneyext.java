@@ -1,3 +1,5 @@
+//This code informs, in words, the quantity between 1 and 9999 entered by the user.
+
 import java.util.Scanner;
 public class moneyext {
     public static void main(String args[]){ 
